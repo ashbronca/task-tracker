@@ -2,7 +2,7 @@ Task Tracker app built with React from the Traversy Media Tutorials.
 
 FE built with React and custom BE with json server.
 
-<img src="https://user-images.githubusercontent.com/84573770/168506476-8d7fe772-b791-4a84-8759-5534ab8d7ae5.gif" width="300" height="400">
+<img src="https://user-images.githubusercontent.com/84573770/168506476-8d7fe772-b791-4a84-8759-5534ab8d7ae5.gif">
 
 
 
